@@ -1,7 +1,7 @@
 <?php
 
-define( 'WP_HOME', 'http://192.168.1.45:8000' );
-define( 'WP_SITEURL', 'http://192.168.1.45:8000' );
+#define( 'WP_HOME', 'http://192.168.1.45:8000' );
+#define( 'WP_SITEURL', 'http://192.168.1.45:8000' );
 
 /**
  * The base configuration for WordPress
